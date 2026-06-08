@@ -1,4 +1,4 @@
-### Solutions — @uchuucho
+#### Solutions by @uchuucho
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
